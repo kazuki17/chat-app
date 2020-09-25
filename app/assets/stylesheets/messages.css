@@ -11,7 +11,7 @@
 .side-bar-header{
   height: 100px;
   padding: 0 20px;
-  background-color: black;
+  background-color: #2f3e51;
   display:flex;
   justify-content: space-between;
   align-items: center;
@@ -35,7 +35,7 @@
 }
 
 .rooms{
-  background-color: salmon;
+  background-color: #2F3E51;
   height: calc(100vh - 100px);
   padding: 0 20px;
   overflow: scroll;
@@ -55,7 +55,7 @@
 }
 
 .chat {
-  background-color: red;
+  background-color: #ffffff;
   width: calc(100% - 300px);
 }
 
@@ -84,7 +84,7 @@
 }
 
 .messages {
-  background-color: springgreen;
+  background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
 }
@@ -119,7 +119,7 @@
 }
 
 .form {
-  background-color: violet;
+  background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
   display: flex;
